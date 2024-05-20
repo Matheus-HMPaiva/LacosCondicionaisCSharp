@@ -1,0 +1,14 @@
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.exe
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.deps.json
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.runtimeconfig.json
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.pdb
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\refint\LacosCondicionais.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.pdb
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos Condicionais\LacosCondicionais\obj\Debug\net8.0\ref\LacosCondicionais.dll
